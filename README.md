@@ -7,4 +7,4 @@ Normal: Playfair Display
 
 Front Bold: Playfair Display Heavy Bold
 
-Cursive: 
+Cursive: Alex Brush
